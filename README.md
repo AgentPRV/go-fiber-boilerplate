@@ -1,1 +1,1 @@
-# go-gin-boilerplate
+# go-fiber-boilerplate
